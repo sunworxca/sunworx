@@ -7,11 +7,11 @@ return function service(B, make, EN, ES, STYLE, o){
   // o.photo = [src, placeholder, caption] — Pixabay only, no credit line
   // o.video = {src, poster, alt} — Pixabay only
   const es = o.lang === 'es';
-  const CTA = BTN('#quote', es?'Cotización gratis':'Get a Free Quote') + BTN2('tel:5107731922', es?'Llame al 510-773-1922':'Call 510-773-1922');
+  const CTA = BTN('#quote', es?'Cotización gratis':'Get a Free Quote') + BTN2('tel:+15107731922', es?'Llame al 510-773-1922':'Call 510-773-1922');
   const LEG = es
     ? 'Todo trabajo eléctrico y de techado es realizado por profesionales con la licencia correspondiente.'
     : 'All electrical and roofing work is performed by appropriately licensed professionals.';
-  const VCTA = VBTN('#quote', es?'Cotización gratis':'Get a Free Quote') + VBTN2('tel:5107731922', es?'Llame al 510-773-1922':'Call 510-773-1922');
+  const VCTA = VBTN('#quote', es?'Cotización gratis':'Get a Free Quote') + VBTN2('tel:+15107731922', es?'Llame al 510-773-1922':'Call 510-773-1922');
   const HEROBLOCK = o.video
     ? VHERO(o.heroLabel, o.h1, o.sub, VCTA, es?TRUST_ES:TRUST_EN, o.video)
     : HERO(o.heroLabel, o.h1, o.sub, CTA, es?TRUST_ES:TRUST_EN);
