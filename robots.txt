@@ -1,0 +1,9 @@
+# Sun Worx — Solar & Battery
+User-agent: *
+Allow: /
+
+# Post-submit and policy pages are noindex in the page head; no need to crawl them
+Disallow: /thank-you/
+Disallow: /es/gracias/
+
+Sitemap: https://sunworxcali.com/sitemap.xml

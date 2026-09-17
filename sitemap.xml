@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sun Worx sitemap. Lists only pages that exist. City pages are NOT listed yet; add them when that batch ships. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sunworxcali.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/solar-installation/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/solar-installation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/instalacion-de-paneles-solares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/solar-installation/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/instalacion-de-paneles-solares/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/solar-installation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/instalacion-de-paneles-solares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/solar-installation/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/battery-storage/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/battery-storage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/baterias-solares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/battery-storage/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/baterias-solares/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/battery-storage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/baterias-solares/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/battery-storage/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/solar-and-battery/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/solar-and-battery/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/solar-y-bateria/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/solar-and-battery/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/solar-y-bateria/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/solar-and-battery/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/solar-y-bateria/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/solar-and-battery/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/add-battery-to-existing-solar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/add-battery-to-existing-solar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/agregar-bateria-a-solar-existente/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/add-battery-to-existing-solar/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/agregar-bateria-a-solar-existente/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/add-battery-to-existing-solar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/agregar-bateria-a-solar-existente/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/add-battery-to-existing-solar/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/main-panel-upgrade/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/main-panel-upgrade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/cambio-de-panel-electrico/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/main-panel-upgrade/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/cambio-de-panel-electrico/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/main-panel-upgrade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/cambio-de-panel-electrico/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/main-panel-upgrade/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/new-roof/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/new-roof/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/techo-nuevo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/new-roof/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/techo-nuevo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/new-roof/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/techo-nuevo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/new-roof/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/roof-and-solar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/roof-and-solar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/techo-y-solar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/roof-and-solar/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/techo-y-solar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/roof-and-solar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/techo-y-solar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/roof-and-solar/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/solar-removal-and-reinstall/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/solar-removal-and-reinstall/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/retiro-y-reinstalacion-de-paneles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/solar-removal-and-reinstall/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/retiro-y-reinstalacion-de-paneles/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/solar-removal-and-reinstall/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/retiro-y-reinstalacion-de-paneles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/solar-removal-and-reinstall/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/service-areas/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/areas-de-servicio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/service-areas/sacramento-area/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/sacramento-area/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/area-de-sacramento/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/sacramento-area/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/areas-de-servicio/area-de-sacramento/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/sacramento-area/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/area-de-sacramento/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/sacramento-area/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/service-areas/placer-el-dorado/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/placer-el-dorado/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/placer-y-el-dorado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/placer-el-dorado/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/areas-de-servicio/placer-y-el-dorado/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/placer-el-dorado/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/placer-y-el-dorado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/placer-el-dorado/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/service-areas/yolo-yuba-sutter/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/yolo-yuba-sutter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/yolo-yuba-y-sutter/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/yolo-yuba-sutter/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/areas-de-servicio/yolo-yuba-y-sutter/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/yolo-yuba-sutter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/yolo-yuba-y-sutter/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/yolo-yuba-sutter/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/service-areas/san-joaquin-county/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/san-joaquin-county/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/condado-de-san-joaquin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/san-joaquin-county/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/areas-de-servicio/condado-de-san-joaquin/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/san-joaquin-county/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/condado-de-san-joaquin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/san-joaquin-county/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/service-areas/solano-county/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/solano-county/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/condado-de-solano/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/solano-county/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/areas-de-servicio/condado-de-solano/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/solano-county/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/condado-de-solano/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/solano-county/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/service-areas/east-contra-costa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/east-contra-costa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/este-de-contra-costa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/east-contra-costa/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/areas-de-servicio/este-de-contra-costa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/service-areas/east-contra-costa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/areas-de-servicio/este-de-contra-costa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/service-areas/east-contra-costa/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/incentives/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/incentives/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/incentivos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/incentives/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/incentivos/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/incentives/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/incentivos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/incentives/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/financing/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/financing/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/financiamiento/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/financing/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/financiamiento/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/financing/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/financiamiento/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/financing/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/warranty/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/warranty/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/garantia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/warranty/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/garantia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/warranty/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/garantia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/warranty/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/about/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/nosotros/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/about/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/reviews/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/reviews/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/opiniones/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/reviews/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/opiniones/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/reviews/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/opiniones/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/reviews/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/contact/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sunworxcali.com/es/contacto/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunworxcali.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sunworxcali.com/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunworxcali.com/contact/"/>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

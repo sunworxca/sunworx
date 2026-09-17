@@ -1,0 +1,44 @@
+/* Sun Worx — shared styles (from the Claude Designs export) */
+*{box-sizing:border-box}
+body{margin:0;background:#FFFFFF;color:#1D1D1F;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased;letter-spacing:-0.01em}
+a{color:#0066CC;text-decoration:none}
+a:hover{color:#00519F;text-decoration:underline}
+:focus-visible{outline:3px solid #0071E3;outline-offset:3px;border-radius:4px}
+summary::-webkit-details-marker{display:none}
+summary{list-style:none}
+details[open] span[data-plus]{transform:rotate(45deg)}
+input::placeholder,textarea::placeholder{color:#86868B}
+@media (min-width:900px){[data-stats]{grid-template-columns:repeat(4,minmax(0,1fr)) !important}[data-cards]{grid-template-columns:repeat(4,minmax(0,1fr)) !important}[data-foot]{grid-template-columns:repeat(4,minmax(0,1fr)) !important}}
+@media (min-width:560px) and (max-width:899px){[data-cards]{grid-template-columns:repeat(2,minmax(0,1fr)) !important}[data-foot]{grid-template-columns:repeat(2,minmax(0,1fr)) !important}}
+@media (max-width:480px){[data-langfull]{display:none !important}[data-langshort]{display:inline !important}}
+@media (max-width:1200px){[data-desk]{display:none !important}[data-mob]{display:flex !important}[data-pagepad]{padding-bottom:74px !important}}
+
+@media (min-width:760px){[data-g2]{grid-template-columns:repeat(2,minmax(0,1fr)) !important}}
+@media (min-width:560px){[data-g4]{grid-template-columns:repeat(2,minmax(0,1fr)) !important}[data-g6]{grid-template-columns:repeat(2,minmax(0,1fr)) !important}}
+@media (min-width:880px){[data-g3]{grid-template-columns:repeat(3,minmax(0,1fr)) !important}[data-g6]{grid-template-columns:repeat(3,minmax(0,1fr)) !important}}
+@media (min-width:1180px){[data-g4]{grid-template-columns:repeat(4,minmax(0,1fr)) !important}}
+
+/* The nav and Service Areas panels carry their own inline display value,
+   which would otherwise beat the browser default for [hidden]. */
+[hidden]{display:none !important}
+
+/* Hover and focus states, lifted from the design's style-hover / style-focus
+   attributes. The design styles every element inline, and an inline declaration
+   outranks any selector, so these carry !important to take effect — the same
+   result the export got by swapping inline styles from script. */
+[data-hv="hv1"]:hover{color:#0066CC !important}
+[data-hv="hv2"]:hover{color:#0066CC !important;text-decoration:none !important}
+[data-hv="hv3"]:hover{background:#F5F5F7 !important;color:#1D1D1F !important;text-decoration:none !important}
+[data-hv="hv4"]:hover{border-color:#1D1D1F !important;color:#1D1D1F !important;text-decoration:none !important}
+[data-hv="hv5"]:hover{box-shadow:0 8px 26px rgba(0,0,0,0.10) !important;color:#1D1D1F !important;text-decoration:none !important}
+[data-hv="hv6"]:hover{background:#0077ED !important;color:#FFFFFF !important;text-decoration:none !important}
+[data-hv="hv7"]:hover{color:#0077ED !important;text-decoration:underline !important}
+[data-hv="hv8"]:hover{color:#F8C232 !important;text-decoration:underline !important}
+[data-hv="hv9"]:hover{background:#0077ED !important}
+[data-hv="hv10"]:hover{background:#FFFFFF !important;color:#1D1D1F !important;text-decoration:none !important}
+[data-hv="hv11"]:hover{background:#1D1D1F !important;color:#FFFFFF !important;text-decoration:none !important}
+[data-hv="hv12"]:hover{border-color:#1D1D1F !important;background:#FFFFFF !important;text-decoration:none !important}
+[data-hv="hv13"]:hover{border-color:#0077ED !important;background:#0077ED !important;text-decoration:none !important}
+[data-hv="hv14"]:hover{background:#E9B531 !important;color:#1D1D1F !important;text-decoration:none !important}
+
+[data-fc="fc1"]:focus{left:12px !important;top:12px !important}
