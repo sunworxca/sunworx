@@ -40,3 +40,6 @@ Both home pages carry a "Solar Costs Less Than You Think." / "La solar cuesta me
 - `_parts/builder.js` and `_parts/page.js` hold the shared section helpers and page factory; both already encode these rules. Use them for new batches so pages stay consistent.
 - `PAGES.md` is the running page list — update it at the end of every batch.
 - Language toggles and the logo link point at working project files and carry `<!-- PRODUCTION PATHS: EN = / · ES = /es/ -->`; nav, footer and city links use final production paths.
+
+## Git and deploy
+- Never set `GIT_TERMINAL_PROMPT=0` or `GCM_INTERACTIVE=never` on git push. Let the GitHub sign-in popup appear.
