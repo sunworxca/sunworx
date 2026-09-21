@@ -249,9 +249,11 @@ input::placeholder,textarea::placeholder{color:#86868B}
         <p style="margin:0;font-size:19px;color:#6E6E73;text-wrap:pretty">A year of bills and a photo of the inverter. We come back with whether storage is worth it for you.</p>
       </div>
       <div style="max-width:780px;margin:0 auto;display:grid;gap:26px">
-        <!-- WIRE FORM ENDPOINT IN CODE PHASE -->
         <!-- ON SUBMIT: SEND TO /thank-you/ -->
-        <form action="#" method="post" style="background:#FFFFFF;border-radius:22px;padding:clamp(24px,3vw,38px);display:grid;gap:16px;box-shadow:0 4px 18px rgba(0,0,0,0.05)">
+        <form action="https://api.web3forms.com/submit" method="POST" style="background:#FFFFFF;border-radius:22px;padding:clamp(24px,3vw,38px);display:grid;gap:16px;box-shadow:0 4px 18px rgba(0,0,0,0.05)">
+          <input type="hidden" name="access_key" value="7eb9a4ff-c204-437f-8c76-3b5a424fde32">
+          <input type="hidden" name="redirect" value="https://sunworxcali.com/thank-you/">
+          <input type="hidden" name="subject" value="New Sun Worx lead (EN) — /add-battery-to-existing-solar/">
           <div style="display:grid;gap:7px">
             <label for="q-name" style="font-size:15px;color:#6E6E73">Name</label>
             <input id="q-name" name="name" type="text" required autocomplete="name" style="background:#F5F5F7;border:1px solid #D2D2D7;border-radius:12px;padding:14px 15px;color:#1D1D1F;font:inherit;font-size:17px;width:100%">
